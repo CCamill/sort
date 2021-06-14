@@ -35,7 +35,6 @@ int main() {
     print_L(L);
 
     //QuickSort_Recursion(L,0,L->length);
-    //FunctionName(L);
     HeapSort(L);
 
     printf("Sorted:\n");
